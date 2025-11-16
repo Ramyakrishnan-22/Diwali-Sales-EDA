@@ -19,7 +19,7 @@ Provide actionable insights for business decision-making
 
 # 📂 Dataset Used
 
-Diwali Sales Dataset (cleaned, transformed, and preprocessed before modeling):<a href ="" >Data Set </a>
+Diwali Sales Dataset (cleaned, transformed, and preprocessed before modeling):<a href ="https://github.com/Ramyakrishnan-22/Diwali-Sales-EDA/blob/main/Diwali%20sales.xlsx" >Data Set </a>
 
 Fields include: Customer Demographics (Age, Gender, Marital Status), Region, Occupation, Product Category, Orders, Amount, etc.
 
