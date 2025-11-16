@@ -38,7 +38,7 @@ Revenue by Demographics & Region
 
 # ⚙️ Process Followed
 
-1. Data Collection & Cleaning
+# 1. Data Collection & Cleaning
 
 Removed missing, duplicate, and inconsistent values
 
@@ -46,7 +46,7 @@ Standardized demographic and category fields
 
 Verified data types and formatting
 
-2. Data Transformation
+# 2. Data Transformation
 
 Added calculated fields: age groups, categories, regions, etc.
 
@@ -54,13 +54,13 @@ Converted columns into proper formats for analysis
 
 Ensured hierarchy-based data structure
 
-3. Data Modeling (Power BI)
+# 3. Data Modeling (Power BI)
 
 Built relationships between fact and dimension tables
 
 Created DAX measures for KPIs like Sales, Orders, AOV, YoY %
 
-4. Dashboard Development
+# 4. Dashboard Development
 
 Created four interactive dashboards:
 
