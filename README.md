@@ -85,10 +85,11 @@ Improved understanding of customer behavior based on age, gender, and occupation
 
 Delivered insights to support targeted marketing and sales strategy
 
-📄 Files Included in This Repository
+# 📄 Files Included in This Repository
 
 <a href ="https://github.com/Ramyakrishnan-22/Diwali-Sales-EDA/blob/main/Diwali-Sales-Dashboard.pbix" > DASHBOARD</a>(Power BI Report)
 
-(Cleaned Dataset)
+
+
 
 
