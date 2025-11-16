@@ -87,7 +87,7 @@ Delivered insights to support targeted marketing and sales strategy
 
 📄 Files Included in This Repository
 
- (Power BI Report)
+<a href ="https://github.com/Ramyakrishnan-22/Diwali-Sales-EDA/blob/main/Diwali-Sales-Dashboard.pbix" > DASHBOARD</a>(Power BI Report)
 
 (Cleaned Dataset)
 
